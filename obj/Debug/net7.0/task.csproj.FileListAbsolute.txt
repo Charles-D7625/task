@@ -1,0 +1,28 @@
+C:\Users\jason\OneDrive\Desktop\task\bin\Debug\net7.0\task.exe
+C:\Users\jason\OneDrive\Desktop\task\bin\Debug\net7.0\task.deps.json
+C:\Users\jason\OneDrive\Desktop\task\bin\Debug\net7.0\task.runtimeconfig.json
+C:\Users\jason\OneDrive\Desktop\task\bin\Debug\net7.0\task.dll
+C:\Users\jason\OneDrive\Desktop\task\bin\Debug\net7.0\task.pdb
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.dll
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\refint\task.dll
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.pdb
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Desktop\task\obj\Debug\net7.0\ref\task.dll
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\bin\Debug\net7.0\task.exe
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\bin\Debug\net7.0\task.deps.json
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\bin\Debug\net7.0\task.runtimeconfig.json
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\bin\Debug\net7.0\task.dll
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\bin\Debug\net7.0\task.pdb
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.dll
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\refint\task.dll
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.pdb
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Desktop\Новая папка (2)\task\obj\Debug\net7.0\ref\task.dll
